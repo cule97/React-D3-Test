@@ -1,38 +1,7 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-image: url('https://dcimg4.dcinside.co.kr/viewimage.php?id=3eb6c73ff3d72aa87d80d8b00180&no=24b0d769e1d32ca73dea87fa11d02831dd19b8e7fc4eb19683da718446d02dae61bb1eea2f240c57a1a6bfe38b15b24868756575ab6e458b07a1fefb09e1a1679ab7db3a4ee97ec6ea');
+  background-size:contain;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
